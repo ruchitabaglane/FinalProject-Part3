@@ -1,0 +1,14 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - plotly
+  - pip:
+    - pandas
+    - matplotlib
+    - plotly
+    - ipywidgets
+    - bqplot
+    - pandas.api.types
