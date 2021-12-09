@@ -11,4 +11,3 @@ dependencies:
     - plotly
     - ipywidgets
     - bqplot
-    - pandas.api.types
